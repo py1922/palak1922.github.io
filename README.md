@@ -1,9 +1,9 @@
-. Palak Yadav.
+Palak Yadav
 
-Frontend Developer | Web Developer
+ Frontend Developer | Web Developer
 
-. About me
-I build clean, responsive websites using HTML, CSS JavaScript.
+ About me
+         I build clean, responsive websites using HTML, CSS JavaScript.
 
 Skills
  . HTML
@@ -15,5 +15,5 @@ Skills
  Portfolio Websites
  Responsive Navbar Design
 
- . Contact ?
+ . Contact 
    . GS :https://github.com/py1922/palak1922
